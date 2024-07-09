@@ -24,6 +24,8 @@ risk factors for Covid-19 patients.
 
 ![image](https://github.com/Python-Neiva/risk-factors-covid19/assets/24919402/969abd67-340c-471f-a893-d0e7fcea75f4)
 
+[Video of research experience in Salisbury University](https://www.youtube.com/watch?v=4iOl7_kru4M)
+
 # Background
 
 Sars-Cov-2 is a disease that
